@@ -28,9 +28,8 @@
 ### 📌 Featured Projects & Highlights
 
 * **[Elasticsearch-Tool-Review](https://github.com/DimitrisFournarakos/Elasticsearch-Tool-Review)**: Administration platform featuring multi-cluster management, historical monitoring, and encrypted credential storage. Focuses on system-level backend logic.
-* **[LMS Project](https://github.com/DimitrisFournarakos/LMS-PROJECT)**: Built a comprehensive Learning Management System combining powerful backend operations (using Python & Django) with a refined, modern frontend design and optimized UI/UX.
-* **[Performance Benchmarking Cryptography Algorithms](https://github.com/DimitrisFournarakos/Bacherlor-s-Project-/tree/main)**: Evaluation and performance benchmarking of cryptography algorithms across 5 distinct performance metrics (coming soon!).
-* **Core Expertise**: Full-stack development, systems-level backend code, databases (SQL), server administration, cryptography concepts, and secure password/credential handling.
+* **[LMS Project](https://github.com/DimitrisFournarakos/LMS-PROJECT)**: Built a comprehensive Learning Management System combining powerful backend operations  with a refined, modern frontend design and optimized UI/UX.
+* **[Performance Benchmarking Cryptography Algorithms](https://github.com/DimitrisFournarakos/Bacherlor-s-Project-/tree/main)**: Evaluation and performance benchmarking of cryptography algorithms across 5 distinct performance metrics.
 
 <br>
 
