@@ -37,6 +37,6 @@
 <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DimitrisFournarakos&theme=radical" alt="Dimitris's GitHub Streak" />
 </p>
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=DimitrisFournarakos&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
