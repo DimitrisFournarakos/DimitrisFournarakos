@@ -33,12 +33,17 @@
 
 <br>
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies & Stats
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=DimitrisFournarakos&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+<p align="center">
+  <a href="https://github.com/DimitrisFournarakos/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=DimitrisFournarakos&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4" alt="Dimitris's GitHub Trophies" />
+  </a>
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DimitrisFournarakos&theme=radical" alt="GitHub Streak" />
+<br>
+
+<!-- Διατηρούμε και το στατιστικό του streak που λειτουργούσε ήδη -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DimitrisFournarakos&theme=radical" alt="Dimitris's GitHub Streak" />
 </p>
