@@ -1,5 +1,6 @@
 ### 👋Hi, I'm Dimitris Fournarakos!
 <hr>
+
 ### 💼 About Me
 
 - 💻 Software & Full-Stack Developer passionate about building robust backend architectures, secure systems, and clean user experiences (UI/UX).
