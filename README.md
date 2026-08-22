@@ -35,7 +35,7 @@
 
 ### 🏆 GitHub Trophies & Stats
 
-<p align="center">
+<p>
   <a href="https://github.com/DimitrisFournarakos/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=DimitrisFournarakos&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4" alt="Dimitris's GitHub Trophies" />
   </a>
