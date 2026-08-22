@@ -1,7 +1,13 @@
 ### 👋Hi, I'm Dimitris Fournarakos!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=550&height=50&lines=Software+%26+Full-Stack+Developer;Ex-UniSystems+Trainee;Backend%2C+Databases+%26+Cryptography" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DimitrisFournarakos&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 <br>
-
+### 💼 About Me
 - 💻 Software & Full-Stack Developer passionate about building robust backend architectures, secure systems, and clean user experiences (UI/UX).
 - 🎓 Graduate in Computer Science from the **University of Thessaly** (Department of Computer Science and Telecommunications), holding a specialization in Software Engineering.
 - 💼 Former **Professional Services Engineer (Trainee)** via university internship at **UniSystems**, gaining valuable enterprise-level technical experience.
@@ -33,7 +39,7 @@
 
 <br>
 
-### 🏆 GitHub Stats
+### 📊 Activity
 <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DimitrisFournarakos&theme=radical" alt="Dimitris's GitHub Streak" />
 </p>
