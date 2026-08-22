@@ -1,7 +1,5 @@
 ### 👋Hi, I'm Dimitris Fournarakos!
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=550&height=50&lines=Software+%26+Full-Stack+Developer;Ex-UniSystems+Trainee;Backend%2C+Databases+%26+Cryptography" alt="Typing SVG" />
-</p>
+
 <br>
 
 ### 💼 About Me
