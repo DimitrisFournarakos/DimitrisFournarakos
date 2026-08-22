@@ -34,13 +34,9 @@
 <br>
 
 ### 🏆 GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DimitrisFournarakos/DimitrisFournarakos/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</p>
-
 <br>
-
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DimitrisFournarakos&theme=radical" alt="Dimitris's GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DimitrisFournarakos&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
