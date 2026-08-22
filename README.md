@@ -4,6 +4,7 @@
 </p>
 <br>
 ### 💼 About Me
+
 - 💻 Software & Full-Stack Developer passionate about building robust backend architectures, secure systems, and clean user experiences (UI/UX).
 - 🎓 Graduate in Computer Science from the **University of Thessaly** (Department of Computer Science and Telecommunications), holding a specialization in Software Engineering.
 - 💼 Former **Professional Services Engineer (Trainee)** via university internship at **UniSystems**, gaining valuable enterprise-level technical experience.
