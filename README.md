@@ -36,7 +36,7 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=DimitrisFournarakos&show_icons=true&theme=radical" alt="Dimitris's GitHub stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DimitrisFournarakos&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
 </p>
 
 <p>
