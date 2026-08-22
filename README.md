@@ -43,7 +43,6 @@
 
 <br>
 
-<!-- Διατηρούμε και το στατιστικό του streak που λειτουργούσε ήδη -->
-<p align="center">
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DimitrisFournarakos&theme=radical" alt="Dimitris's GitHub Streak" />
 </p>
